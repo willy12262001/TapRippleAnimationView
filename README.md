@@ -1,11 +1,15 @@
 # TapRippleAnimationView
 Make Ripple Effects when you tap UIView.
 
+![Alt text](https://github.com/willy12262001/TapRippleAnimationView/blob/master/animate.gif)
+
 ## Installation
 
 Just add the following line to your Podfile:
 
-`pod 'TapRippleAnimationView'`
+```js
+pod 'TapRippleAnimationView'
+```
 
 
 ## Usage
