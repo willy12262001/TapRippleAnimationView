@@ -18,6 +18,8 @@ You can simply use it with storyboard or programming.
 
 #### In class way:
 ```swift
+import TapRippleAnimationView
+
 let effectView = TapRippleAnimationView(frame: rect)
 effectView.delegate = self
 view.addSubview(effectView)
@@ -25,6 +27,8 @@ view.addSubview(effectView)
 #### In storyboard way:
 ![Alt text](https://github.com/willy12262001/TapRippleAnimationView/blob/master/Screenshot.png)
 ```swift
+import TapRippleAnimationView
+
 @IBOutlet weak var tapView: TapRippleAnimationView!
 tapView.delegate = self
 ```
