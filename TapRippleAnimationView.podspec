@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "TapRippleAnimationView"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "Animation of tap UIView"
   s.description  = <<-DESC
 		      - Make Ripple Effects when you tap UIView
