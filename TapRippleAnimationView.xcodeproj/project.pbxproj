@@ -21,10 +21,8 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		1C12AE6224459A2800378AB3 /* TapRippleAnimationView.h in Headers */ = {isa = PBXBuildFile; fileRef = 1C12AE6024459A2800378AB3 /* TapRippleAnimationView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1C12AE6C24459A3700378AB3 /* TapRippleAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C12AE6924459A3700378AB3 /* TapRippleAnimationView.swift */; };
 		1C12AE6D24459A3700378AB3 /* EffectAnimateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C12AE6A24459A3700378AB3 /* EffectAnimateView.swift */; };
-		1C5D868A2446D0CD00C75244 /* TapRippleAnimationView.swift in Headers */ = {isa = PBXBuildFile; fileRef = 1C12AE6924459A3700378AB3 /* TapRippleAnimationView.swift */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -80,8 +78,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1C12AE6224459A2800378AB3 /* TapRippleAnimationView.h in Headers */,
-				1C5D868A2446D0CD00C75244 /* TapRippleAnimationView.swift in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
